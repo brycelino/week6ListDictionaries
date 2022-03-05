@@ -1,0 +1,14 @@
+C:\Users\bryce\source\c#\week6ListDictionaries\bin\Debug\netcoreapp3.1\week6ListDictionaries.exe
+C:\Users\bryce\source\c#\week6ListDictionaries\bin\Debug\netcoreapp3.1\week6ListDictionaries.deps.json
+C:\Users\bryce\source\c#\week6ListDictionaries\bin\Debug\netcoreapp3.1\week6ListDictionaries.runtimeconfig.json
+C:\Users\bryce\source\c#\week6ListDictionaries\bin\Debug\netcoreapp3.1\week6ListDictionaries.runtimeconfig.dev.json
+C:\Users\bryce\source\c#\week6ListDictionaries\bin\Debug\netcoreapp3.1\week6ListDictionaries.dll
+C:\Users\bryce\source\c#\week6ListDictionaries\bin\Debug\netcoreapp3.1\week6ListDictionaries.pdb
+C:\Users\bryce\source\c#\week6ListDictionaries\obj\Debug\netcoreapp3.1\week6ListDictionaries.csproj.AssemblyReference.cache
+C:\Users\bryce\source\c#\week6ListDictionaries\obj\Debug\netcoreapp3.1\week6ListDictionaries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bryce\source\c#\week6ListDictionaries\obj\Debug\netcoreapp3.1\week6ListDictionaries.AssemblyInfoInputs.cache
+C:\Users\bryce\source\c#\week6ListDictionaries\obj\Debug\netcoreapp3.1\week6ListDictionaries.AssemblyInfo.cs
+C:\Users\bryce\source\c#\week6ListDictionaries\obj\Debug\netcoreapp3.1\week6ListDictionaries.csproj.CoreCompileInputs.cache
+C:\Users\bryce\source\c#\week6ListDictionaries\obj\Debug\netcoreapp3.1\week6ListDictionaries.dll
+C:\Users\bryce\source\c#\week6ListDictionaries\obj\Debug\netcoreapp3.1\week6ListDictionaries.pdb
+C:\Users\bryce\source\c#\week6ListDictionaries\obj\Debug\netcoreapp3.1\week6ListDictionaries.genruntimeconfig.cache
