@@ -8,7 +8,7 @@ namespace week6ListDictionaries
         static void Main(string[] args)
         {
             ProblemOne(); // calls method problem one and executes the code inside the method 
-            ProblemTwo();
+            ProblemTwo(); // calls method problem two and executes the code inside 
         }
         static public void ProblemOne() // Declares a method for first problem
         {
